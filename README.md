@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ocean-zhc-seatunnel-mcp-badge.png)](https://mseep.ai/app/ocean-zhc-seatunnel-mcp)
+
 # SeaTunnel MCP Server
 
 A Model Context Protocol (MCP) server for interacting with SeaTunnel through LLM interfaces like Claude.
